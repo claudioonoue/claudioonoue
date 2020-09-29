@@ -20,8 +20,6 @@
 </p>
 
 <br />
-<br />
-<br />
 
 <div align="center">
 
@@ -43,8 +41,6 @@
 
 </div>
 
-<br />
-<br />
 <br />
 
 <div align="center">
@@ -88,8 +84,6 @@
 
 -------
 
-<br />
-<br />
 <br />
 
 <div align="center">
