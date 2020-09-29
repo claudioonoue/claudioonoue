@@ -3,9 +3,6 @@
 ![GitHub User's stars](https://img.shields.io/github/stars/claudioonoue?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/claudioonoue?style=social)
 
-
-# Welcome to my profile! 🖖
-
 <p>
   <img src="https://media1.tenor.com/images/15f0729d004bbf7ecea976b38a1fd8cb/tenor.gif" width="50%">
   <br><br>
