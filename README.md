@@ -20,8 +20,6 @@
   </samp>
 </p>
 
-<br />
-
 # 🔍 Some things about me: 🔍
 
 🔋 20 years old
@@ -38,13 +36,9 @@
 
 🎮 Also gamer! 👾
 
-<br />
-
 # 🏆 Some things about my professional skills: 🎖
 
 ## 🛠 Language and tools 🗜
-
-<br />
 
 <p>
     <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
@@ -70,8 +64,6 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=claudioonoue&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 -------
-
-<br />
 
 <div align="center">
 
