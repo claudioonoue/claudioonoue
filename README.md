@@ -1,19 +1,26 @@
-# Hello, I'm Claudio! 👨‍💻
-
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sudiptoghosh99/)](https://www.linkedin.com/in/claudio-onoue/)
+[![GitHub followers](https://img.shields.io/github/followers/claudioonoue?style=social)](https://github.com/claudioonoue)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=claudioonoue.claudioonoue)
+
+<p align="center">
+  <img src="https://media1.tenor.com/images/15f0729d004bbf7ecea976b38a1fd8cb/tenor.gif" width="30%">
+  <br><br>
+  <samp>
+    I'm Claudio Onoue 🖖
+    <br><br>
+    I work as a Full Stack developer! 👨‍💻
+    <br><br>
+    I love to play chess and other strategy games! 🎮
+    <br><br>
+    ⚠ P.S. I know that HTML is not a programming language!! ⚠
+  </samp>
+</p>
+
+# Some things about me 🔍
 
 <br />
 
-<div style="display: flex; align-items: center;">
-    <span>
-        📌 Full Stack Developer at
-    </span>
-    &nbsp;
-    &nbsp;
-    <a href="https://liveonbaas.com/">
-        <img src="https://liveonbaas.com/wp-content/uploads/2020/07/LOGO-LIVE-ON-BAAS-standard.svg" width="80">
-    </a>
-</div>
+📌 Full Stack Developer at <a href="https://liveonbaas.com/">LiveOn BaaS</a>
 
 
 <br />
