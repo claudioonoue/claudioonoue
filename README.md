@@ -3,13 +3,14 @@
 ![GitHub User's stars](https://img.shields.io/github/stars/claudioonoue?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/claudioonoue?style=social)
 
--------
 
-<p align="center">
+# Welcome to my profile! 🖖
+
+<p>
   <img src="https://media1.tenor.com/images/15f0729d004bbf7ecea976b38a1fd8cb/tenor.gif" width="50%">
   <br><br>
   <samp>
-    I'm Claudio Onoue 🖖
+    I'm Claudio Onoue 👋
     <br><br>
     I work as a Full Stack developer! 👨‍💻
     <br><br>
@@ -20,8 +21,6 @@
 </p>
 
 <br />
-
-<div align="center">
 
 # 🔍 Some things about me: 🔍
 
@@ -39,21 +38,15 @@
 
 🎮 Also gamer! 👾
 
-</div>
-
 <br />
-
-<div align="center">
 
 # 🏆 Some things about my professional skills: 🎖
 
 ## 🛠 Language and tools 🗜
 
-</div>
-
 <br />
 
-<p align="center">
+<p>
     <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
     <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
     <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
@@ -72,15 +65,9 @@
 
 -------
 
-<div align="center">
-
 ## 🗃 My Github stats 📏
 
-<br />
-
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=claudioonoue&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
 
 -------
 
