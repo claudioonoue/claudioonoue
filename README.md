@@ -3,7 +3,7 @@
 ![GitHub User's stars](https://img.shields.io/github/stars/claudioonoue?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/claudioonoue?style=social)
 
-# 🖖 Hello, world!! 🖖
+# 🖖 Greetings! Welcome to my profile!! 🖖
 I'm Claudio Onoue 😉 and I'm a full stack developer 👨‍💻 who loves to program 💟 and is always willing to learn new technologies 🔭!
 
 ## 🔍 Some things about me: 🔍
