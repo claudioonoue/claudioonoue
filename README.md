@@ -89,6 +89,6 @@ I'm Claudio Onoue 😉 and I'm a full stack developer 👨‍💻 who loves to p
 
 <div align="center">
 
-⭐ Made with 💟 and some Markdown By [Claudio Onoue](https://github.com/claudioonoue)
+⭐ Made with 💟 and some Markdown By [Claudio Onoue](https://github.com/claudioonoue) ⭐
 
 </div>
