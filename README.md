@@ -17,8 +17,6 @@ I'm Claudio Onoue 😉 and I'm a full stack developer 👨‍💻 who loves to p
 ## 💼 Currently working as: 💼
 📌 Full Stack Developer at <a href="https://liveonbaas.com/">LiveOn BaaS</a>
 
-## 
-
 <!-- ENABLE THIS SECTION LATER -->
 <!-- ## 🗃 My Github stats 📏
 
