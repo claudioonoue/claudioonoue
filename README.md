@@ -28,20 +28,28 @@ I'm Claudio Onoue 😉 and I'm a full stack developer 👨‍💻 who loves to p
 ## 🌳🛠 My Tech Tree 🗜🌳
 
 <p>
-    
+
+<code>
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
 <img src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/>
 <img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+</code>
 <br/>
+<code>
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white&color=black"/>
 <img src ="https://img.shields.io/badge/postgresql-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
+</code>
 <br/>
+<code>
 <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+</code>
 <br/>
+<code>
 <img src="https://img.shields.io/badge/debian%20-%23A81D33.svg?&style=for-the-badge&logo=Debian&logoColor=white"/>
+</code>
 
 </p>
 
