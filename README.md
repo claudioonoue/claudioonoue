@@ -17,7 +17,7 @@
   </samp>
 </p>
 
-# 🔍 Some things about me: 🔍
+# 🔍 Some things about me:
 
 🔋 20 years old
 
@@ -33,7 +33,7 @@
 
 🎮 Also gamer! 👾
 
-# 🏆 Some things about my professional skills: 🎖
+# 🎖 Some things about my professional skills:
 
 ## 🛠 Language and tools 🗜
 
