@@ -3,68 +3,53 @@
 ![GitHub User's stars](https://img.shields.io/github/stars/claudioonoue?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/claudioonoue?style=social)
 
-<p>
-  <img src="https://media1.tenor.com/images/15f0729d004bbf7ecea976b38a1fd8cb/tenor.gif" width="50%">
-  <br><br>
-  <samp>
-    I'm Claudio Onoue 🖖
-    <br><br>
-    I work as a Full Stack developer! 👨‍💻
-    <br><br>
-    I love to play chess and other strategy games! 🎮
-    <br><br>
-    ⚠ P.S. I know that HTML is not a programming language!! ⚠
-  </samp>
-</p>
+# 🖖 Hello, world!! 🖖
+I'm Claudio Onoue 😉 and I'm a full stack developer 👨‍💻 who loves to program 💟 and is always willing to learn new technologies 🔭!
 
-# 🔍 Some things about me:
+## 🔍 Some things about me: 🔍
 
-🔋 20 years old
+- 🌃 From São Paulo, Brazil 🇧🇷
+- 🎓 Computer Technician course at ETEC "Comendador João Rays" (2016-2017)
+- 🎓 Web Development course at ETEC "Comendador João Rays" (2018)
+- ♟️ Unconditional chess lover!
+- 🎮 Also gamer! 👾
 
-🌃 From São Paulo, Brazil 🇧🇷
-
-🎓 Computer Technician course at ETEC "Comendador João Rays" (2016-2017)
-
-🎓 Web Development course at ETEC "Comendador João Rays" (2018)
-
+## 💼 Currently working as: 💼
 📌 Full Stack Developer at <a href="https://liveonbaas.com/">LiveOn BaaS</a>
 
-♟️ Unconditional chess lover!
+## 
 
-🎮 Also gamer! 👾
+<!-- ENABLE THIS SECTION LATER -->
+<!-- ## 🗃 My Github stats 📏
 
-# 🎖 Some things about my professional skills:
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=claudioonoue&show_icons=true&theme=dark&count_private=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=claudioonoue&layout=compact&hide=html,css&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
-## 🛠 Language and tools 🗜
+## 🌳🛠 My Tech Tree 🗜🌳
 
-<p>
-    <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-    <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-    <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-    <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
-    <img src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/>
-    <img src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
-    <img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-    <br/>
-    <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white&color=black"/>
-    <img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
-    <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
-    <br/>
-    <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
-    <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-</p>
+<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/>
+<img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white&color=black"/>
+<img src ="https://img.shields.io/badge/postgresql-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/debian%20-%23A81D33.svg?&style=for-the-badge&logo=Debian&logoColor=white"/>
 
--------
+<!-- ENABLE THIS SECTION LATER -->
+<!-- ## 🌟 Featured Projects 🌟
 
-## 🗃 My Github stats 📏
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=claudioonoue&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
--------
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=claudioonoue&repo=antares-api&theme=dark)](https://github.com/claudioonoue/antares-api)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=claudioonoue&repo=rapid-format&theme=dark)](https://github.com/claudioonoue/rapid-format) -->
 
 <div align="center">
 
-# 📱 Contact Me! 💻
+## 📱 Social media: 💻
 
 <a href="https://www.linkedin.com/in/claudio-onoue">
     <img src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/> 
@@ -74,6 +59,9 @@
 </a>
 <a href="https://wa.me/5511965600263">
     <img src="https://img.shields.io/badge/WhatsApp%20-%2325D366.svg?&style=for-the-badge&logo=WhatsApp&logoColor=white"/>
+</a>
+<a href="mailto:claudio.onoue@outlook.com.br">
+    <img src="https://img.shields.io/badge/Outlook%20-%230078D4.svg?&style=for-the-badge&logo=Microsoft Outlook&logoColor=white"/>
 </a>
 <a href="https://www.facebook.com/ClaudioOnoue">
     <img src="https://img.shields.io/badge/Facebook%20-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/>
@@ -86,3 +74,7 @@
 </a>
 
 </div>
+
+<br />
+
+⭐ Made with 💟 and some Markdown By [Claudio Onoue](https://github.com/claudioonoue)
