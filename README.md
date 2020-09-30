@@ -7,7 +7,7 @@
   <img src="https://media1.tenor.com/images/15f0729d004bbf7ecea976b38a1fd8cb/tenor.gif" width="50%">
   <br><br>
   <samp>
-    I'm Claudio Onoue 👋
+    I'm Claudio Onoue 🖖
     <br><br>
     I work as a Full Stack developer! 👨‍💻
     <br><br>
