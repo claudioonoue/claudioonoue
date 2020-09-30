@@ -65,7 +65,7 @@ I'm Claudio Onoue 😉 and I'm a full stack developer 👨‍💻 who loves to p
     <img src="https://img.shields.io/badge/WhatsApp%20-%2325D366.svg?&style=for-the-badge&logo=WhatsApp&logoColor=white"/>
 </a>
 <a href="mailto:claudio.onoue@outlook.com.br">
-    <img src="https://img.shields.io/badge/Outlook%20-%230078D4.svg?&style=for-the-badge&logo=Microsoft Outlook&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Outlook%20-%230078D4.svg?&style=for-the-badge&logo=Microsoft_Outlook&logoColor=white"/>
 </a>
 <a href="https://www.facebook.com/ClaudioOnoue">
     <img src="https://img.shields.io/badge/Facebook%20-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/>
