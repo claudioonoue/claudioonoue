@@ -27,6 +27,8 @@ I'm Claudio Onoue 😉 and I'm a full stack developer 👨‍💻 who loves to p
 
 ## 🌳🛠 My Tech Tree 🗜🌳
 
+<p>
+    
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
 <img src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/>
@@ -40,6 +42,8 @@ I'm Claudio Onoue 😉 and I'm a full stack developer 👨‍💻 who loves to p
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 <br/>
 <img src="https://img.shields.io/badge/debian%20-%23A81D33.svg?&style=for-the-badge&logo=Debian&logoColor=white"/>
+
+</p>
 
 <!-- ENABLE THIS SECTION LATER -->
 <!-- ## 🌟 Featured Projects 🌟
